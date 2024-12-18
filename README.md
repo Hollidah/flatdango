@@ -39,3 +39,5 @@ Buy Ticket: When the "Buy Ticket" button is clicked, the number of tickets sold 
 
 This project assumes the presence of a local db.json file or a similar source of movie data.
 The current version of the app doesn't have a back-end to store ticket purchases permanently. This is a front-end demonstration.
+
+Author: Hollidah Chemutai
