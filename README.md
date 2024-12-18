@@ -1,6 +1,6 @@
 Github live link: https://hollidah.github.io/flatdango/
 
-# Flatdango - Movie Theater Web Application
+# Flatrion - Movie Theater Web Application
 
 Flatdango is a simple web-based movie theater application where users can view available movies, see details about each movie, and purchase tickets. The project demonstrates a basic setup for displaying dynamic movie data using HTML, CSS, and JavaScript.
 
